@@ -1,0 +1,10 @@
+.container{
+    width: 350px;
+    height: 500px;
+    background-color: rgb(102, 199, 167);
+}
+.rectangle{
+    width: 100px;
+    height: 50px;
+    background-color: rgb(37, 66, 56);
+}
